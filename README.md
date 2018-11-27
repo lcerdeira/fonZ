@@ -18,6 +18,8 @@ fonZ for now has 4 files
 download the files and put the scripts in a folder named js  
 and the image in his img folder  
 or use other names or locations and change the links in the example page  
+or
+download and unzip the zip file
 open the example page in a browser and run the script  
 
 fonZ can run in any location with or without a webserver  
