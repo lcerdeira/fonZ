@@ -50,8 +50,9 @@ and the same phrase with that generic font
 then it reads the width of those phrases using the offset.Width property  
 if they match it means almost nothing  
 but  
-### if they don't it means just a pre-installed font  
+** if they don't it means just a pre-installed font**  
 now fonZ stores new name and creates a new font button  
+<hr>  
 
 ![a couple of buttons](/img/SchermataFonZ4.png)
  
