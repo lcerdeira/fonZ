@@ -40,3 +40,6 @@ add the names to the script for fonts where are stored the existing fonts and in
 for now fonZ support until 324 fonts  
 but is quite simple enlarge that limit 
 
+## [demo shoud be run the most recent version of fonZ](https://fonz.esogeomedismo.org)
+
+
