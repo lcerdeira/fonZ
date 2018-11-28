@@ -14,6 +14,14 @@ fonZ for now has 4 files
 2 js one for fonZ application and the other for a list of fonts - only the name  
 1 image svg optional for the background  
 
+## released version beta zeta 4
+speed because the script was braked  
+issue now too many movements  
+progress bar  
+list redeployed  
+fonts added  
+and something always is forgotten
+
 ## Usage
 download the files and put the scripts in a folder named js  
 and the image in his img folder  
@@ -32,8 +40,10 @@ if it finds something
 put the code at bottom of example page in your page  
 put the css code of fonZ in a css file or embedd it  
 link the scripts  
-done
-
+*update* done though  
+the script modify the font of body tag  
+others directive should be prevail  
+issue need testing
 
 ## Add more font names
 add the names to the script for fonts where are stored the existing font names and in the same format i.e. 'a fonts','another','serif','etc etc',  
