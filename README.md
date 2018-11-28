@@ -53,9 +53,8 @@ but
 ### if they don't it means just a pre-installed font  
 now fonZ stores new name and creates a new font button  
 
-
-
-
+![a couple of buttons](/img/SchermataFonZ4.png)
+ 
 ## [demo shoud be run the most recent version of fonZ](https://fonz.esogeomedismo.org)
 
 
