@@ -70,15 +70,8 @@ but
 **if they don't it means just an installed font**  
 now fonZ stores new name and creates a new font button  
 <br>  <hr>  
-### the usal problems to add images to README
-        fonZ/img/Schermata1FonZBetaZeta5.png
-      fonZ/master/img/Schermata1FonZBetaZeta5.png
          
-![start](../img/Schermata1FonZBetaZeta5.png)
-
-![it runs](/img/Schermata2FonZBetaZeta5.png)
-
-![the fonts are ready to be chosen](img/Schermata1FonZBetaZeta5.png)
+![start](img/Schermata1FonZBetaZeta5.png) ![it runs](img/Schermata2FonZBetaZeta5.png) ![the fonts are ready to be chosen](img/Schermata3FonZBetaZeta5.png)
  
 ## [demo shoud be runs the most recent version of fonZ](https://fonz.esogeomedismo.org)
 
