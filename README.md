@@ -67,16 +67,18 @@ and the same phrase with that generic font
 then it reads the width of those phrases using the offset.Width property  
 if they match it means almost nothing  
 but  
-**if they don't it means just a pre-installed font**  
+**if they don't it means just an installed font**  
 now fonZ stores new name and creates a new font button  
 <br>  <hr>  
-
+### many problems to ad
+        fonZ/img/Schermata1FonZBetaZeta5.png
+      fonZ/master/img/Schermata1FonZBetaZeta5.png
          
-![start](img/Schermata1FonZBetaZeta5.png)
+![start](../img/Schermata1FonZBetaZeta5.png)
 
-![it runs](fonZ/img/Schermata2FonZBetaZeta5.png)
+![it runs](/img/Schermata2FonZBetaZeta5.png)
 
-![the fonts are ready to be chosen](fonZ/img/Schermata1FonZBetaZeta5.png)
+![the fonts are ready to be chosen](img/Schermata1FonZBetaZeta5.png)
  
 ## [demo shoud be runs the most recent version of fonZ](https://fonz.esogeomedismo.org)
 
