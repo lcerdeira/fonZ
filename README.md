@@ -70,7 +70,13 @@ but
 **if they don't it means just a pre-installed font**  
 now fonZ stores new name and creates a new font button  
 <br>  <hr>  
-![start](/img/Schermata1FonZBetaZeta5.png) ![it runs](/img/Schermata2FonZBetaZeta5.png) ![the fonts are ready to be chosen](/img/Schermata1FonZBetaZeta5.png)
+
+         
+![start](img/Schermata1FonZBetaZeta5.png)
+
+![it runs](fonZ/img/Schermata2FonZBetaZeta5.png)
+
+![the fonts are ready to be chosen](fonZ/img/Schermata1FonZBetaZeta5.png)
  
 ## [demo shoud be runs the most recent version of fonZ](https://fonz.esogeomedismo.org)
 
