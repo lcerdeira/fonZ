@@ -14,6 +14,13 @@ fonZ for now has 4 files
 2 js one for fonZ application and the other for a list of fonts - only the name  
 1 image svg optional for the background  
 
+## released versione beta zeta 5  
+restyling  
+now fonZ is to right and the scroll bar to left  
+panels change form when fonts are written  
+button are hidden when the script is searching for fonts  
+more fonts  
+
 ## released version beta zeta 4
 speed because the script was braked  
 issue now too many movements  
@@ -46,7 +53,7 @@ others directive should be prevail
 issue need testing
 
 ## Add more font names
-add the names to the script for fonts where are stored the existing font names and in the same format i.e. 'a fonts','another','serif','etc etc',  
+add the names to the script for fonts where are stored the existing font names and in the same format i.e. 'times','another name of font','serif','etc etc',  
 for now fonZ support until 324 fonts  
 but is quite simple enlarge that limit 
 
@@ -63,9 +70,8 @@ but
 **if they don't it means just a pre-installed font**  
 now fonZ stores new name and creates a new font button  
 <br>  <hr>  
-
-![a couple of buttons](/img/SchermataFonZ4.png)
+![start](/img/Schermata1FonZBetaZeta5.png) ![it runs](/img/Schermata2FonZBetaZeta5.png) ![the fonts are ready to be chosen](/img/Schermata1FonZBetaZeta5.png)
  
-## [demo shoud be run the most recent version of fonZ](https://fonz.esogeomedismo.org)
+## [demo shoud be runs the most recent version of fonZ](https://fonz.esogeomedismo.org)
 
 
