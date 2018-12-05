@@ -70,7 +70,7 @@ but
 **if they don't it means just an installed font**  
 now fonZ stores new name and creates a new font button  
 <br>  <hr>  
-### many problems to ad
+### the usal problems to add images to README
         fonZ/img/Schermata1FonZBetaZeta5.png
       fonZ/master/img/Schermata1FonZBetaZeta5.png
          
